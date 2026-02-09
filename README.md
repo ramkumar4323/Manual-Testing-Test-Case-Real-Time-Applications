@@ -1,7 +1,7 @@
 Real-Time-Application – Test Case (Manual Testing)
 
 This repository contains **manual test case** written for an **Real-Time-application**. 
-The testcase are designed based on **real-time user behavior** and cover both **positive and negative flows**.
+The testcase are designed based on **real-time user behavior**.
 
 ## What’s Included
     -Functional Test Cases
