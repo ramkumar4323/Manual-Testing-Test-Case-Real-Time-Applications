@@ -24,3 +24,5 @@ The testcase are designed based on **real-time user behavior** and cover both **
     -To understand real-time application testing
     -To help with QA interview preparation
     -Useful for freshers, students, and manual testers
+
+📌 **Note:** This project is created only for learning and practice purposes.
